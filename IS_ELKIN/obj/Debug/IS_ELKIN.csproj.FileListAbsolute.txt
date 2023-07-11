@@ -34,3 +34,17 @@ E:\IS_ELKIN\IS_ELKIN\obj\Debug\IS_ELKIN.pdb
 E:\IS_ELKIN\IS_ELKIN\obj\Debug\IS_ELKIN.Form3.resources
 E:\IS_ELKIN\IS_ELKIN\obj\Debug\IS_ELKIN.Form4.resources
 E:\IS_ELKIN\IS_ELKIN\obj\Debug\IS_ELKIN.Form5.resources
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\bin\Debug\IS_ELKIN.exe.config
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\bin\Debug\IS_ELKIN.exe
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\bin\Debug\IS_ELKIN.pdb
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\obj\Debug\IS_ELKIN.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\obj\Debug\IS_ELKIN.Form1.resources
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\obj\Debug\IS_ELKIN.Form2.resources
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\obj\Debug\IS_ELKIN.Form3.resources
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\obj\Debug\IS_ELKIN.Form4.resources
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\obj\Debug\IS_ELKIN.Form5.resources
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\obj\Debug\IS_ELKIN.Properties.Resources.resources
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\obj\Debug\IS_ELKIN.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\obj\Debug\IS_ELKIN.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\obj\Debug\IS_ELKIN.exe
+C:\Users\Александр\Desktop\Пепка\IS_ELKIN\Incrypt_proga\IS_ELKIN\obj\Debug\IS_ELKIN.pdb

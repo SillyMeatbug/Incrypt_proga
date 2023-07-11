@@ -32,7 +32,7 @@ namespace IS_ELKIN
         {
             string usr = UsrLog.Text;
             string psw = UsrPass.Text;
-            con = new OleDbConnection(@"Provider=Microsoft.ACE.Oledb.12.0;Data Source=C:\Users\Александр\Desktop\IS_ELKIN\DataBase_IS.accdb");
+            con = new OleDbConnection(@"Provider=Microsoft.ACE.Oledb.12.0;Data Source=|DataDirectory|\..\DataBase_IS.accdb");
             cmd = new OleDbCommand();
             con.Open();
             cmd.Connection = con;
